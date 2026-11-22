@@ -1,0 +1,6 @@
+*.asv
+*.slxc
+slprj/
+*_grt_rtw/
+*.mexw64
+.env
